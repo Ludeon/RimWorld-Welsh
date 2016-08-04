@@ -12,28 +12,28 @@
 	<TerribleMood>Hwyliau ofnadwy</TerribleMood>
 	<TerribleMoodDesc>Mae'r gwladychwyr mewn hwyliau ofnadwy a gall arwain at chwalfa meddyliol caled - a hyd yn oed fod yn dreisgar:\n\n{0}</TerribleMoodDesc>
 	
+	<LowMoodDescEnding>Gwiriwch tab Anghenion y gwladychwyr hyn i weld beth sy'n eu poeni.</LowMoodDescEnding>
+	
+	<ColonistNeedsRescue>Gwladychwr angen ei arbed</ColonistNeedsRescue>
+	<ColonistsNeedRescue>Gwladychwyr angen eu arbed</ColonistsNeedRescue>
+	<ColonistsNeedRescueDesc>Mae'r gwladychwyr hyn yn analleuog ar y llawr:\n\n{0}\nGyrwch gwladychwr arall i'w arbed a'i gario nhw nol i'w gwleyau.\n\n(I'w achub, dewiswch gwladychwr arall, cliciwch y botwm dde a dewiswch Arbed.</ColonistsNeedRescueDesc>
+	
+	<BuildARoom>Adeiladu ystafell</BuildARoom>
+	<BuildARoomDesc>Mae ystafell yn cynnwys darnau wal ar wahân gyda drws.\n\nDewiswch y ddewislen Pensaer ar waelod chwith y sgrin er mwyn ddynodi ble rydych am adeiladu. Unwaith y byddwch yn dynodi rhywbeth i gael ei hadeiladu, bydd eich gwladychwyr yn gwneud y gwaith pan y gallan.</BuildARoomDesc>
+	
+	<NeedDefenses>Angen amddiffynfeydd</NeedDefenses>
+	<NeedDefensesDesc>Rydych chi wedi bod yma peth amser ac wedi cael eich gweld yn ôl pob tebyg. Bydd cyrchoedd môr-ladron yn dechrau cyn bo hir.\n\nDylech baratoi amddiffynfeydd, boed yn drapiau, bagiau tywod, neu tyredau.</NeedDefensesDesc>
+	
+	<NeedDoctor>Angen meddyg</NeedDoctor>
+	<NeedDoctorDesc>Mae'r gwladychwyr hyn angen gofal meddygol, ond nid oes gennych unrhyw wladychwyr iach wedi'w aseinio fel meddyg.\n\n{0}\nAseiniwch wladychwr iach i'r weithra Meddyg. Os na chaiff ei drin, gall clwyfau byth eu wella'n iawn a allai'n y pendraw fod yn barhaol.</NeedDoctorDesc>
+	
+	<NeedMiner>Angen mwynwr</NeedMiner>
+	<NeedMinerDesc>Yr ydych wedi dynodi creigiau i'w cloddio ond does dim gwladychwr wedi'w aseinio i'r weithra Mwynwr.\n\nAseiniwch wladychwr i'r weithra Mwynwr.</NeedMinerDesc>
+	
+	<NeedWarden>Angen warden</NeedWarden>
+	<NeedWardenDesc>Mae gennych garcharor, ond dim wladychwr wedi'w aseinio i'r weithra Warden.\n\nAseiniwch wladychwr i'r weithra Warden.</NeedWardenDesc>
+	
 	//TODO
-	
-	<LowMoodDescEnding>Check these colonists' Needs tab to see what's bothering them.</LowMoodDescEnding>
-	
-	<ColonistNeedsRescue>Colonist needs rescue</ColonistNeedsRescue>
-	<ColonistsNeedRescue>Colonists need rescue</ColonistsNeedRescue>
-	<ColonistsNeedRescueDesc> These colonists are incapacitated on the ground:\n\n{0}\nSend another colonist to rescue them and carry them back to bed.\n\n(To rescue, select another colonist, then right click on the victim and select Rescue.</ColonistsNeedRescueDesc>
-	
-	<BuildARoom>Build a room</BuildARoom>
-	<BuildARoomDesc>A room is composed of separate wall pieces with a door.\n\nUse the ARCHITECT menu at the bottom left of the screen to designate where you want things built. Once you designate something to be built, your colonists will do the work when they can.</BuildARoomDesc>
-	
-	<NeedDefenses>Need defenses</NeedDefenses>
-	<NeedDefensesDesc>You've been here some time and have probably been seen. Pirate raids will start soon.\n\nYou should prepare defenses, whether they're traps, sandbags, or turrets.</NeedDefensesDesc>
-	
-	<NeedDoctor>Need doctor</NeedDoctor>
-	<NeedDoctorDesc>These colonists need medical care, but you have no healthy colonists assigned as doctors.\n\n{0}\nAssign a healthy colonist to the Doctor work type. If left untreated, wounds may never heal properly and may become permanent.</NeedDoctorDesc>
-	
-	<NeedMiner>Need miner</NeedMiner>
-	<NeedMinerDesc>You have designated some rocks to be mined, but no colonist has the Mining work type.\n\nAssign a colonist the Mining work type.</NeedMinerDesc>
-	
-	<NeedWarden>Need warden</NeedWarden>
-	<NeedWardenDesc>You have a prisoner, but no colonist has the Warden work type.\n\nAssign a colonist the Warden work type.</NeedWardenDesc>
 	
 	<LowFood>Low food</LowFood>
 	<LowFoodDesc>You only have {0} full bars worth of food in storage. This is dangerously low.\n\nGrow, buy, find, or kill some food.</LowFoodDesc>
