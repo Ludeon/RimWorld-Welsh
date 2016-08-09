@@ -25,50 +25,51 @@
   <HelpTranslate>Helpu cyfieithu RimWorld</HelpTranslate>
   <BuySoundtrack>Prynu trac sain</BuySoundtrack>
 
-//TODO
   <!--=========== Create/review world ================-->
-  <ReviewWorld>Review world</ReviewWorld>
-  <WorldGenerate>Generate</WorldGenerate>
-  <WorldSaveAndFinish>Save and finish</WorldSaveAndFinish>
-  <Reset>Reset</Reset>
-  <WorldSize>Size</WorldSize>
-  <WorldSeed>Seed</WorldSeed>
-  <RandomizeSeed>Randomize seed</RandomizeSeed>
+  <ReviewWorld>Adolygu byd</ReviewWorld>
+  <WorldGenerate>Cynhyrchu</WorldGenerate>
+  <WorldSaveAndFinish>Arbed a gorffen</WorldSaveAndFinish>
+  <Reset>Ailosod</Reset>
+  <WorldSize>Maint</WorldSize>
+  <WorldSeed>Hadau</WorldSeed>
+  <RandomizeSeed>Had ar hap/RandomizeSeed>
 
   <!--=========== Select world ===================-->
-  <SelectWorld>Select world</SelectWorld>
-  <WorldChooseButton>Select</WorldChooseButton>
-  <NoWorldsFilesFound>No world files found. Create a world first.</NoWorldsFilesFound>
+  <SelectWorld>Dewis byd</SelectWorld>
+  <WorldChooseButton>Dewis</WorldChooseButton>
+  <NoWorldsFilesFound>Heb ddod o hyd i ffeiliau byd. Mae angen creu byd yn gyntaf.</NoWorldsFilesFound>
   
   <!--=========== Version info ==========-->
-  <BuildNowAvailable>Version {0} is now available. Check ludeon.com for more info.</BuildNowAvailable>
-	<BuildUpToDate>This is the latest version.</BuildUpToDate>
-	<ErrorGettingVersionInfo>Error getting version info: {0}</ErrorGettingVersionInfo>
-	<LoadingVersionInfo>Loading version info...</LoadingVersionInfo>
+  <BuildNowAvailable>Fersiwn {0} bellach ar gael. Ewch i ludeon.com am fwy o wybodaeth.</BuildNowAvailable>
+	<BuildUpToDate>Hwn yw'r fersiwn diweddaraf.</BuildUpToDate>
+	<ErrorGettingVersionInfo>Gwall yn cael gwybodaeth fersiwn info: {0}</ErrorGettingVersionInfo>
+	<LoadingVersionInfo>Gwybodaeth fersiwn yn llwytho...</LoadingVersionInfo>
 
   <!--=========== World generator =========-->
-  <GenerateWorld>Generate world</GenerateWorld>
+  <GenerateWorld>Cynhyrchu byd</GenerateWorld>
 
   <!--=========== Mods config ==========-->
-  <OpenSteamWorkshop>Open Steam Workshop</OpenSteamWorkshop>
-  <GetModsFromForum>Get mods from forum</GetModsFromForum>
-  <OpenModsDataFolder>Open mods data folder</OpenModsDataFolder>
-  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
-  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
-  <Unsubscribe>Unsubscribe</Unsubscribe>
+  <OpenSteamWorkshop>Agor Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Cael mod o'r fforwm</GetModsFromForum>
+  <OpenModsDataFolder>Agor ffolder data'r mods</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Wyt ti'n shwr ti eisiau analluogi y mod craidd? Ni fydd y gêm yn gweithio o gwbl os nad oes gennych mod arall sy'n cymryd lle'r ymarferoldeb craidd.\n\nCofiwch, gelli'r mods eraill gwrthwneud defs yn y mod craidd wrth defnyddio yr un defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Wyt ti'n shwr ti eisiau dileu holl gynnwys {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Dad-danysgrifio</Unsubscribe>
   <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
-  <Author>Author</Author>
-  <WorkshopPage>Workshop page</WorkshopPage>
-  <UploadToSteamWorkshop>Upload to Steam Workshop</UploadToSteamWorkshop>
-  <UpdateOnSteamWorkshop>Update on Steam Workshop</UpdateOnSteamWorkshop>
-  <UploadAlreadyInProgress>Upload already in progress.</UploadAlreadyInProgress>
-  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
-  <WorkshopUploadSucceeded>Successfully uploaded {0}.</WorkshopUploadSucceeded>
-  <Downloading>Downloading</Downloading>
-  <Source>Source</Source>
-  <ModTargetVersion>For version: {0}</ModTargetVersion>
-  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
-  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <Author>Awdur</Author>
+  <WorkshopPage>Steam Workshop/WorkshopPage>
+  <UploadToSteamWorkshop>Llwytho i fyny i'r Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Diweddaru ar y Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Mae'n llwytho i fyny yn barod.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Cyflwyniad Steam Workshop ddim yn llwyddiannus.\n\nRheswm: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Llwythiad i fyny yn llwyddiannus {0}.</WorkshopUploadSucceeded>
+  <Downloading>Lawrlwytho</Downloading>
+  <Source>Ffynhonnell</Source>
+  <ModTargetVersion>Ar gyfer fersiwn: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>Nid oedd y mod yma wedi'w wneud ar gyfer fersiwn yma o RimWorld, mae'n debyg na fydd yn gweithio yn gywir.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mae'r mod angen fersiwn darged fformatio dda tu fewn About.xml. Fel hyn: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+
+//TODO
   
   <!--=========== Select scenario =============-->
   <ChooseScenario>Choose scenario</ChooseScenario>
