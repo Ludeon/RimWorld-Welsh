@@ -32,7 +32,7 @@
   <Reset>Ailosod</Reset>
   <WorldSize>Maint</WorldSize>
   <WorldSeed>Hadau</WorldSeed>
-  <RandomizeSeed>Had ar hap/RandomizeSeed>
+  <RandomizeSeed>Had ar hap</RandomizeSeed>
 
   <!--=========== Select world ===================-->
   <SelectWorld>Dewis byd</SelectWorld>
@@ -55,9 +55,9 @@
   <ConfirmDisableCoreMod>Wyt ti'n shwr ti eisiau analluogi y mod craidd? Ni fydd y gêm yn gweithio o gwbl os nad oes gennych mod arall sy'n cymryd lle'r ymarferoldeb craidd.\n\nCofiwch, gelli'r mods eraill gwrthwneud defs yn y mod craidd wrth defnyddio yr un defName.</ConfirmDisableCoreMod>
   <ConfirmDeleteMod>Wyt ti'n shwr ti eisiau dileu holl gynnwys {0}?</ConfirmDeleteMod>
   <Unsubscribe>Dad-danysgrifio</Unsubscribe>
-  <ConfirmUnsubscribe>Are you sure you want to unsubscribe from {0}?</ConfirmUnsubscribe>
+  <ConfirmUnsubscribe>Wyt ti'n shwr ti eisiau dad-danysgrifio oddiwrth {0}?</ConfirmUnsubscribe>
   <Author>Awdur</Author>
-  <WorkshopPage>Steam Workshop/WorkshopPage>
+  <WorkshopPage>Steam Workshop</WorkshopPage>
   <UploadToSteamWorkshop>Llwytho i fyny i'r Steam Workshop</UploadToSteamWorkshop>
   <UpdateOnSteamWorkshop>Diweddaru ar y Steam Workshop</UpdateOnSteamWorkshop>
   <UploadAlreadyInProgress>Mae'n llwytho i fyny yn barod.</UploadAlreadyInProgress>
