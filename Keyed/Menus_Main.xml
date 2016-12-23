@@ -83,24 +83,24 @@
 //TODO
   
   <!--=========== Select scenario =============-->
-  <ChooseScenario>Choose scenario</ChooseScenario>
+  <ChooseScenario>Dewis senario</ChooseScenario>
   <ScenariosCustom>Custom</ScenariosCustom>
   <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
-  <ScenarioEditor>Scenario editor</ScenarioEditor>
-  <Delete>Delete</Delete>
+  <ScenarioEditor>Golydydd senario</ScenarioEditor>
+  <Delete>Dileu</Delete>
   
   <!--============ Scenario editor ===============-->
-  <Seed>seed</Seed>
-  <Load>Load</Load>
-  <EditMode>edit mode</EditMode>
-  <Summary>Summary</Summary>
-  <AddPart>Add part</AddPart>
-  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
-  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
-  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
-  <Incompatible>Incompatible</Incompatible>
-  <TooMany>Too many (max {0}): </TooMany>
-  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+  <Seed>hedyn</Seed>
+  <Load>Llwytho</Load>
+  <EditMode>modd golygu</EditMode>
+  <Summary>Crynodeb</Summary>
+  <AddPart>Ychwanegu rhan</AddPart>
+  <TextFieldsMustBeFilled>Mae'n rhaid i bob maesydd testun cael eu llenwi.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Wyt ti yn siwr ti eisiau llwytho i fyny i'r Steam Workshop?/n/nMae'n rhaid i ti gytuno i telerau gwasanaeth Steam Workshop. Dewch o hyd i'r thymor llawn yma:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Yn amlwg y dylech dim ond lwytho cynnwys yr ydych yn ei greu eich hun.\n\nA wnaethoch chi greu y cynnwys hwn eich hun?</ConfirmContentAuthor>
+  <Incompatible>Anghydnaws</Incompatible>
+  <TooMany>Gormod o (max {0}): </TooMany>
+  <CanBeUpdatedOnWorkshop>Gellir ei diweddaru ar y Workshop, oherwydd mai chi yw'r awdur.</CanBeUpdatedOnWorkshop>
   
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
