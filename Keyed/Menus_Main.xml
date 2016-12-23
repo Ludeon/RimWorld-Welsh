@@ -79,8 +79,6 @@
   <ModNotMadeForThisVersion>Nid oedd y mod yma wedi'w wneud ar gyfer fersiwn yma o RimWorld, mae'n debyg na fydd yn gweithio yn gywir.</ModNotMadeForThisVersion>
   <MessageModNeedsWellFormattedTargetVersion>Mae'r mod angen fersiwn darged fformatio dda tu fewn About.xml. Fel hyn: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
   <DragToReorder>Drag to reorder</DragToReorder>
-	
-//TODO
   
   <!--=========== Select scenario =============-->
   <ChooseScenario>Dewis senario</ChooseScenario>
@@ -101,6 +99,8 @@
   <Incompatible>Anghydnaws</Incompatible>
   <TooMany>Gormod o (max {0}): </TooMany>
   <CanBeUpdatedOnWorkshop>Gellir ei diweddaru ar y Workshop, oherwydd mai chi yw'r awdur.</CanBeUpdatedOnWorkshop>
+	
+	//TODO
   
   <!--=========== Select storyteller ==========-->
   <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
